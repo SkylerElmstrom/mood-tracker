@@ -1,3 +1,6 @@
+# App specific ignore
+mood_tracker.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
