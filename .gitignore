@@ -1,5 +1,6 @@
 # App specific ignore
 mood_tracker.db
+venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
