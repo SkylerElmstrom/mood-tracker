@@ -8,14 +8,20 @@ I built this streamlit app with form input for tracking daily mood changes and s
 ## Setup
 - Install python 3.13
 - Clone this repository
-- Install from `requirements.txt`
+- Initialize `venv`
 
-```python
+```shell
+python -m venv .venv
+```
+
+- Install packages from `requirements.txt`
+
+```shell
 pip install -r requirements.txt
 ```
 
 - Run `app.py`
 
-```python
+```shell
 streamlit run app.py
 ```
